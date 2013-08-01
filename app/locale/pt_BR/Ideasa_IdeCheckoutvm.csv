@@ -1,0 +1,92 @@
+#-- A --
+"Another Form Fields", "Opções de Nome e Endereço"
+"Another Sortordering Form Fields", "Ordenação das Opções de Nome e Endereço"
+"Allow guests and logged in users", "Criação de conta opcional"
+"Already registered? Click here to login", "Já possui conta? Clique aqui para entrar"
+"Auto-generate account for new emails", "Criação automática de conta"
+"Agreement is required","Termos e Condições do Contração é obrigatório"
+#-- B --
+
+#-- C --
+"Checkout Extra Fields", "Campos Extras do Checkout"
+"Cupom e Pagamento", "Cupom e Pagamento"
+"CPF number", "CPF"
+"CNPJ number", "CNPJ"
+#-- D --
+"Dados de acesso", "Dados de acesso"
+"Dados de entrega", "Dados de entrega"
+"Default Payment Method", "Método de Pagamento Padrão"
+"Default Shipping Method", "Método de Entrega Padrão"
+"Disable registration/login", "Sem criação de conta"
+#-- E --
+"Enable registration on success page", "Habilitar registro na página de sucesso"
+"Enviar", "Enviar"
+"Enable Coupon", "Habilitar Cupom de Desconto"
+"Entrega e Pagamento", "Entrega e Pagamento"
+#-- F --
+"Fechar", "Fechar"
+"Field Label", "Label"
+"Field Name", "Nome"
+"Field Id", "Id"
+"Field Order", "Ordem"
+"Field Option", "Opção"
+"Finalizar compra", "Finalizar compra"
+"Forgotten your password?", "Esqueceu sua senha?"
+#-- G --
+#-- H --
+#-- I --
+"Checkout Venda Mais", "Checkout Venda Mais"
+"EnableInline Validation", "Habilitar Validação Inline"
+"Inscricao Estadual", "Inscrição Estadual"
+#-- J --
+#-- L --
+
+#-- M --
+"Mostrar cupom de desconto", "Mostrar cupom de desconto"
+"Mostrar link de login", "Mostrar link de login"
+"Mostrar link assinar Newsletter", "Mostrar link assinar Newsletter"
+"Mobile", "Celular"
+#-- N --
+"Nao lembra seu CEP?", "Não lembra seu CEP?"
+#-- O --
+#-- P --
+"Passo 1", "1"
+"Passo 2", "2"
+"Passo 3", "3"
+"Please check billing address information.", "Por favor, verifique as informações do endereço de cobrança."
+"Please check shipping address information.", "Por favor, verifique as informações do endereço de entrega."
+"Please check customer information.", "Por favor, verifique as informações do cliente."
+"Please check agreements information.", "Por favor, reveja os Termos e Condições Gerais."
+"Pessoa Fisica", "Pessoa Física"
+"Pessoa Juridica", "Pessoa Jurídica"
+#-- Q --
+"Create an account for later use", "Quero me cadastrar"
+#-- R --
+"Razao Social", "Razão Social"
+"Require registration/login", "Criação de conta obrigatória"
+"Return to login", "Voltar para tela de login"
+"Reenviar senha", "Reenviar senha"
+"Resumo do pedido", "Resumo do pedido"
+#-- S --
+"Street Address_2", "Número"
+"Street Address_3", "Complemento"
+"Street Address_4", "Bairro"
+"Show Shipping Address Form", "Mostrar Endereço de Entrega"
+"Show Subscribe to Newsletter Checkbox", "Mostrar Assinar Newsletter"
+"Show Comment Field", "Mostrar Campo de Comentário"
+"Ship to the same address", "Entregar no mesmo endereço"
+"Seus dados", "Seus dados"
+#-- T --
+"The Checkout Venda Mais is disabled.", "O Checkout Venda Mais está desabilitado."
+"There is already a customer registered using this email address. Please login using this email address or enter a different email address to register your account.", "Já existe um cliente registrado usando esse endereço de e-mail. Por favor, faça o login usando o endereço de email ou digite um endereço de e-mail diferente para registrar sua conta."
+"This customer email already exists", "Este e-mail já está sendo usado por outro cliente."
+#-- U --
+"Tem um cupom de desconto?", "Tem um cupom de desconto?"
+"Tenho 9 digitos", "Tenho 9 digitos."
+#-- V --
+"Visualizar na tela", "Visualizar na tela"
+"Visualizar em lightbox", "Visualizar em lightbox"
+#-- W --
+#-- X --
+#-- Y --
+#-- Z --
