@@ -1,0 +1,51 @@
+.payment-option-gwap_boleto{
+    height: 47px;
+    padding: 3px;
+    
+}
+.retorno{
+    font-size:14px;
+}
+.payment-option-gwap_boleto input{
+    position:absolute;
+    left:-9999px;
+}
+.payment-option-gwap_boleto.selected{
+    background-color: #F0F0F0;
+    border: 1px solid #CCC;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.payment-option-gwap_cc{
+    height: 47px;
+    padding: 3px;   
+}
+.payment-option-gwap_cc input{
+    position:absolute;
+    left:-9999px;
+}
+.payment-option-gwap_cc label{
+    cursor: pointer;    
+}
+.payment-option-gwap_cc.selected{
+    background-color: #F0F0F0;
+    border: 1px solid #CCC;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.page .form-list select{
+    width: 245px;
+}
+
+.advancedinstallments{
+    margin-bottom:10px;
+    border-bottom: 1px dotted #000000;
+    padding-bottom: 15px;
+}
+#gwap_cc_cc_type_cvv_div input.input-text {
+    width: 60px;
+}
+
+.info-boleto ul{margin-top:20px;list-style-type: square;}
